@@ -8,4 +8,4 @@ import { PprNotificationComponent } from './notification.component';
   exports: [PprNotificationComponent],
   providers: [],
 })
-export class PprSnackbarModule {}
+export class PprNotificationModule {}
