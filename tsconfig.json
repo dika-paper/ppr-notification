@@ -16,7 +16,7 @@
       "dom"
     ],
     "paths": {
-      "notification": [
+      "@paper-fe/notification": [
         "dist/notification/notification",
         "dist/notification"
       ]
