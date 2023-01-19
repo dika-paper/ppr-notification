@@ -9,7 +9,8 @@
     "lint": "ng lint",
     "format:lib": "npx prettier --write \"projects/notification/src/**/*.{ts,html,scss,css,js,json}\"",
     "format:demo": "npx prettier --write \"projects/notification-demo/src/**/*.{ts,html,scss,css,js,json}\"",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "serve:demo": "ng serve notification-demo --port=9203"
   },
   "private": true,
   "dependencies": {
