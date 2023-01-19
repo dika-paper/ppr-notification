@@ -1,6 +1,6 @@
 {
-  "name": "notification",
-  "version": "0.0.1",
+  "name": "@paper-fe/notification",
+  "version": "10.0.0",
   "peerDependencies": {
     "@angular/common": "^10.2.5",
     "@angular/core": "^10.2.5"
